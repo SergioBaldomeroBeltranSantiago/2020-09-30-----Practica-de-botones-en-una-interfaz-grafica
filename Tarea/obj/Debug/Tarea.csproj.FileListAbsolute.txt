@@ -1,0 +1,10 @@
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.csprojAssemblyReference.cache
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.Form1.resources
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.Properties.Resources.resources
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.csproj.GenerateResource.cache
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\Patato\Desktop\Documentos\Visual Studio\Tarea\Tarea\obj\Debug\Tarea.pdb
